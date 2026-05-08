@@ -44,5 +44,6 @@ Simulation project focused on tactical movement, logic, and visual interaction.
 
 ## Contact
 
-- LinkedIn: [שים כאן קישור]
-- Email: [שים כאן מייל]
+- LinkedIn: https://www.linkedin.com/in/inbar-halutzi-42065b3b8/
+- Email: inbar847@gmail.com
+- personal website: https://inbar847.github.io/
